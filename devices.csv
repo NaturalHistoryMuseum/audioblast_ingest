@@ -1,0 +1,5 @@
+"source","id","name","model","serial","hardware","hardware_version","os", "os version","software","software_version","firmware","firmware_version"
+"unp","c49ae25d-58c7-4aad-8d1f-98577da7d8c3","unp-dummy","UNP Recorder","dummy-serial","Raspberry Pi 4","","Raspberry Pi OS", "2021-03-04", "Wildlife Systems", "0.1", "", ""
+"unp","098eb11a-8716-4a68-b230-3581bf28771a","UNP AudioMoth 1", "AudioMoth", "240435055C7B17DB", "AudioMoth", "1.1.0","","","","","AudioMoth","1.5.0"
+"unp","e4177a8f-8d3a-4364-9b23-be6c98539166","UNP AudioMoth 2", "AudioMoth", "240435055C7B0D54", "AudioMoth", "1.1.0","","","","","AudioMoth","1.5.0"
+"unp","866d5ae0-51a4-485f-a7ca-163c890a1111","UNP AudioMoth 3", "AudioMoth", "240435055C7B0B3A", "AudioMoth", "1.1.0","","","","","AudioMoth","1.5.0"
