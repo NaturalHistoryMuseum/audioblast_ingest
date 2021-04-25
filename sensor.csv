@@ -1,0 +1,3 @@
+"source","id","device","name","model","serial"
+"unp","d094a498-ce68-4c0f-a555-46700e9e1f41","015ca069-51e7-4fb7-b5d0-9f09d1653349","UNP Temperature","unp-dummy",""
+"unp","7af65eaa-82e6-4c4c-a570-65d7fbbff8f0","015ca069-51e7-4fb7-b5d0-9f09d1653349","UNP Humidity","unp-dummy",""
