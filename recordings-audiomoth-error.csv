@@ -1418,11 +1418,6 @@ unp,Glasgow-1-20231116_204500,Glasgow-1 2023-11-16 2045,,audiomoth/Glasgow-1/202
     input <- inputw(wave = wave, f = f, channel = channel)
     return(length(input$w)/input$f)
 },Glasgow-1
-unp,Glasgow-2-20231217_093000,Glasgow-2 2023-12-17 0930,,audiomoth/Glasgow-2/20231217_093000.WAV,Urban Nature Project @ NHM,2023-12-17,,NA,audio/x-wave,Soundscape,2023-12-17,0930,function (wave, f, channel = 1) 
-{
-    input <- inputw(wave = wave, f = f, channel = channel)
-    return(length(input$w)/input$f)
-},Glasgow-2
 unp,Glasgow-2-20231223_070000,Glasgow-2 2023-12-23 0700,,audiomoth/Glasgow-2/20231223_070000.WAV,Urban Nature Project @ NHM,2023-12-23,,NA,audio/x-wave,Soundscape,2023-12-23,0700,function (wave, f, channel = 1) 
 {
     input <- inputw(wave = wave, f = f, channel = channel)
