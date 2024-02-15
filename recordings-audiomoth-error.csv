@@ -1418,7 +1418,1557 @@ unp,Glasgow-1-20231116_204500,Glasgow-1 2023-11-16 2045,,audiomoth/Glasgow-1/202
     input <- inputw(wave = wave, f = f, channel = channel)
     return(length(input$w)/input$f)
 },Glasgow-1
+unp,Glasgow-1-20231218_063000,Glasgow-1 2023-12-18 0630,,audiomoth/Glasgow-1/20231218_063000.WAV,Urban Nature Project @ NHM,2023-12-18,,NA,audio/x-wave,Soundscape,2023-12-18,0630,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_021500,Glasgow-1 2024-01-21 0215,,audiomoth/Glasgow-1/20240121_021500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0215,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_023000,Glasgow-1 2024-01-21 0230,,audiomoth/Glasgow-1/20240121_023000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0230,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_024500,Glasgow-1 2024-01-21 0245,,audiomoth/Glasgow-1/20240121_024500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0245,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_030000,Glasgow-1 2024-01-21 0300,,audiomoth/Glasgow-1/20240121_030000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0300,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_031500,Glasgow-1 2024-01-21 0315,,audiomoth/Glasgow-1/20240121_031500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_033000,Glasgow-1 2024-01-21 0330,,audiomoth/Glasgow-1/20240121_033000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0330,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_034500,Glasgow-1 2024-01-21 0345,,audiomoth/Glasgow-1/20240121_034500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0345,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_040000,Glasgow-1 2024-01-21 0400,,audiomoth/Glasgow-1/20240121_040000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0400,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_041500,Glasgow-1 2024-01-21 0415,,audiomoth/Glasgow-1/20240121_041500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0415,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_043000,Glasgow-1 2024-01-21 0430,,audiomoth/Glasgow-1/20240121_043000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0430,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_044500,Glasgow-1 2024-01-21 0445,,audiomoth/Glasgow-1/20240121_044500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0445,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_050000,Glasgow-1 2024-01-21 0500,,audiomoth/Glasgow-1/20240121_050000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0500,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_051500,Glasgow-1 2024-01-21 0515,,audiomoth/Glasgow-1/20240121_051500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0515,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_053000,Glasgow-1 2024-01-21 0530,,audiomoth/Glasgow-1/20240121_053000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0530,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_054500,Glasgow-1 2024-01-21 0545,,audiomoth/Glasgow-1/20240121_054500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0545,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_060000,Glasgow-1 2024-01-21 0600,,audiomoth/Glasgow-1/20240121_060000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0600,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_061500,Glasgow-1 2024-01-21 0615,,audiomoth/Glasgow-1/20240121_061500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0615,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_063000,Glasgow-1 2024-01-21 0630,,audiomoth/Glasgow-1/20240121_063000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0630,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_064500,Glasgow-1 2024-01-21 0645,,audiomoth/Glasgow-1/20240121_064500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0645,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_070000,Glasgow-1 2024-01-21 0700,,audiomoth/Glasgow-1/20240121_070000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0700,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_071500,Glasgow-1 2024-01-21 0715,,audiomoth/Glasgow-1/20240121_071500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0715,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_073000,Glasgow-1 2024-01-21 0730,,audiomoth/Glasgow-1/20240121_073000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0730,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_074500,Glasgow-1 2024-01-21 0745,,audiomoth/Glasgow-1/20240121_074500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0745,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_080000,Glasgow-1 2024-01-21 0800,,audiomoth/Glasgow-1/20240121_080000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0800,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_081500,Glasgow-1 2024-01-21 0815,,audiomoth/Glasgow-1/20240121_081500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0815,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_083000,Glasgow-1 2024-01-21 0830,,audiomoth/Glasgow-1/20240121_083000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0830,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_084500,Glasgow-1 2024-01-21 0845,,audiomoth/Glasgow-1/20240121_084500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0845,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_090000,Glasgow-1 2024-01-21 0900,,audiomoth/Glasgow-1/20240121_090000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0900,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_091500,Glasgow-1 2024-01-21 0915,,audiomoth/Glasgow-1/20240121_091500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0915,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_093000,Glasgow-1 2024-01-21 0930,,audiomoth/Glasgow-1/20240121_093000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0930,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_094500,Glasgow-1 2024-01-21 0945,,audiomoth/Glasgow-1/20240121_094500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0945,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_100000,Glasgow-1 2024-01-21 1000,,audiomoth/Glasgow-1/20240121_100000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1000,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_101500,Glasgow-1 2024-01-21 1015,,audiomoth/Glasgow-1/20240121_101500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1015,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_103000,Glasgow-1 2024-01-21 1030,,audiomoth/Glasgow-1/20240121_103000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1030,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_104500,Glasgow-1 2024-01-21 1045,,audiomoth/Glasgow-1/20240121_104500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1045,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_110000,Glasgow-1 2024-01-21 1100,,audiomoth/Glasgow-1/20240121_110000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1100,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_111500,Glasgow-1 2024-01-21 1115,,audiomoth/Glasgow-1/20240121_111500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1115,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_113000,Glasgow-1 2024-01-21 1130,,audiomoth/Glasgow-1/20240121_113000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1130,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_114500,Glasgow-1 2024-01-21 1145,,audiomoth/Glasgow-1/20240121_114500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1145,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_120000,Glasgow-1 2024-01-21 1200,,audiomoth/Glasgow-1/20240121_120000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1200,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_121500,Glasgow-1 2024-01-21 1215,,audiomoth/Glasgow-1/20240121_121500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1215,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_123000,Glasgow-1 2024-01-21 1230,,audiomoth/Glasgow-1/20240121_123000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1230,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_124500,Glasgow-1 2024-01-21 1245,,audiomoth/Glasgow-1/20240121_124500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1245,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_130000,Glasgow-1 2024-01-21 1300,,audiomoth/Glasgow-1/20240121_130000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1300,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_131500,Glasgow-1 2024-01-21 1315,,audiomoth/Glasgow-1/20240121_131500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_133000,Glasgow-1 2024-01-21 1330,,audiomoth/Glasgow-1/20240121_133000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1330,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_134500,Glasgow-1 2024-01-21 1345,,audiomoth/Glasgow-1/20240121_134500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1345,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_140000,Glasgow-1 2024-01-21 1400,,audiomoth/Glasgow-1/20240121_140000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1400,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_141500,Glasgow-1 2024-01-21 1415,,audiomoth/Glasgow-1/20240121_141500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1415,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_143000,Glasgow-1 2024-01-21 1430,,audiomoth/Glasgow-1/20240121_143000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1430,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_144500,Glasgow-1 2024-01-21 1445,,audiomoth/Glasgow-1/20240121_144500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1445,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_150000,Glasgow-1 2024-01-21 1500,,audiomoth/Glasgow-1/20240121_150000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1500,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_151500,Glasgow-1 2024-01-21 1515,,audiomoth/Glasgow-1/20240121_151500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1515,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_153000,Glasgow-1 2024-01-21 1530,,audiomoth/Glasgow-1/20240121_153000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1530,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_154500,Glasgow-1 2024-01-21 1545,,audiomoth/Glasgow-1/20240121_154500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1545,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_160000,Glasgow-1 2024-01-21 1600,,audiomoth/Glasgow-1/20240121_160000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1600,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_161500,Glasgow-1 2024-01-21 1615,,audiomoth/Glasgow-1/20240121_161500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1615,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_163000,Glasgow-1 2024-01-21 1630,,audiomoth/Glasgow-1/20240121_163000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1630,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_164500,Glasgow-1 2024-01-21 1645,,audiomoth/Glasgow-1/20240121_164500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1645,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_170000,Glasgow-1 2024-01-21 1700,,audiomoth/Glasgow-1/20240121_170000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1700,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_171500,Glasgow-1 2024-01-21 1715,,audiomoth/Glasgow-1/20240121_171500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1715,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_173000,Glasgow-1 2024-01-21 1730,,audiomoth/Glasgow-1/20240121_173000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1730,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_174500,Glasgow-1 2024-01-21 1745,,audiomoth/Glasgow-1/20240121_174500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1745,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_180000,Glasgow-1 2024-01-21 1800,,audiomoth/Glasgow-1/20240121_180000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1800,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_181500,Glasgow-1 2024-01-21 1815,,audiomoth/Glasgow-1/20240121_181500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1815,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_183000,Glasgow-1 2024-01-21 1830,,audiomoth/Glasgow-1/20240121_183000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1830,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_184500,Glasgow-1 2024-01-21 1845,,audiomoth/Glasgow-1/20240121_184500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1845,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_190000,Glasgow-1 2024-01-21 1900,,audiomoth/Glasgow-1/20240121_190000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1900,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_191500,Glasgow-1 2024-01-21 1915,,audiomoth/Glasgow-1/20240121_191500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1915,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_193000,Glasgow-1 2024-01-21 1930,,audiomoth/Glasgow-1/20240121_193000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1930,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_194500,Glasgow-1 2024-01-21 1945,,audiomoth/Glasgow-1/20240121_194500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,1945,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_200000,Glasgow-1 2024-01-21 2000,,audiomoth/Glasgow-1/20240121_200000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2000,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_201500,Glasgow-1 2024-01-21 2015,,audiomoth/Glasgow-1/20240121_201500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2015,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_203000,Glasgow-1 2024-01-21 2030,,audiomoth/Glasgow-1/20240121_203000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2030,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_204500,Glasgow-1 2024-01-21 2045,,audiomoth/Glasgow-1/20240121_204500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2045,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_210000,Glasgow-1 2024-01-21 2100,,audiomoth/Glasgow-1/20240121_210000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2100,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_211500,Glasgow-1 2024-01-21 2115,,audiomoth/Glasgow-1/20240121_211500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2115,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_213000,Glasgow-1 2024-01-21 2130,,audiomoth/Glasgow-1/20240121_213000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2130,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_214500,Glasgow-1 2024-01-21 2145,,audiomoth/Glasgow-1/20240121_214500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2145,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_220000,Glasgow-1 2024-01-21 2200,,audiomoth/Glasgow-1/20240121_220000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2200,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_221500,Glasgow-1 2024-01-21 2215,,audiomoth/Glasgow-1/20240121_221500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2215,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_223000,Glasgow-1 2024-01-21 2230,,audiomoth/Glasgow-1/20240121_223000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2230,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_224500,Glasgow-1 2024-01-21 2245,,audiomoth/Glasgow-1/20240121_224500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2245,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_230000,Glasgow-1 2024-01-21 2300,,audiomoth/Glasgow-1/20240121_230000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2300,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_231500,Glasgow-1 2024-01-21 2315,,audiomoth/Glasgow-1/20240121_231500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_233000,Glasgow-1 2024-01-21 2330,,audiomoth/Glasgow-1/20240121_233000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2330,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240121_234500,Glasgow-1 2024-01-21 2345,,audiomoth/Glasgow-1/20240121_234500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2345,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_000000,Glasgow-1 2024-01-22 0000,,audiomoth/Glasgow-1/20240122_000000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0000,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_001500,Glasgow-1 2024-01-22 0015,,audiomoth/Glasgow-1/20240122_001500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0015,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_003000,Glasgow-1 2024-01-22 0030,,audiomoth/Glasgow-1/20240122_003000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0030,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_004500,Glasgow-1 2024-01-22 0045,,audiomoth/Glasgow-1/20240122_004500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0045,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_010000,Glasgow-1 2024-01-22 0100,,audiomoth/Glasgow-1/20240122_010000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0100,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_011500,Glasgow-1 2024-01-22 0115,,audiomoth/Glasgow-1/20240122_011500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0115,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_013000,Glasgow-1 2024-01-22 0130,,audiomoth/Glasgow-1/20240122_013000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0130,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_014500,Glasgow-1 2024-01-22 0145,,audiomoth/Glasgow-1/20240122_014500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0145,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_020000,Glasgow-1 2024-01-22 0200,,audiomoth/Glasgow-1/20240122_020000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0200,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_021500,Glasgow-1 2024-01-22 0215,,audiomoth/Glasgow-1/20240122_021500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0215,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_023000,Glasgow-1 2024-01-22 0230,,audiomoth/Glasgow-1/20240122_023000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0230,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_024500,Glasgow-1 2024-01-22 0245,,audiomoth/Glasgow-1/20240122_024500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0245,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_030000,Glasgow-1 2024-01-22 0300,,audiomoth/Glasgow-1/20240122_030000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0300,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_031500,Glasgow-1 2024-01-22 0315,,audiomoth/Glasgow-1/20240122_031500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_033000,Glasgow-1 2024-01-22 0330,,audiomoth/Glasgow-1/20240122_033000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0330,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_034500,Glasgow-1 2024-01-22 0345,,audiomoth/Glasgow-1/20240122_034500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0345,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_040000,Glasgow-1 2024-01-22 0400,,audiomoth/Glasgow-1/20240122_040000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0400,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_041500,Glasgow-1 2024-01-22 0415,,audiomoth/Glasgow-1/20240122_041500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0415,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_043000,Glasgow-1 2024-01-22 0430,,audiomoth/Glasgow-1/20240122_043000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0430,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_044500,Glasgow-1 2024-01-22 0445,,audiomoth/Glasgow-1/20240122_044500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0445,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_050000,Glasgow-1 2024-01-22 0500,,audiomoth/Glasgow-1/20240122_050000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0500,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_051500,Glasgow-1 2024-01-22 0515,,audiomoth/Glasgow-1/20240122_051500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0515,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_053000,Glasgow-1 2024-01-22 0530,,audiomoth/Glasgow-1/20240122_053000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0530,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_054500,Glasgow-1 2024-01-22 0545,,audiomoth/Glasgow-1/20240122_054500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0545,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_060000,Glasgow-1 2024-01-22 0600,,audiomoth/Glasgow-1/20240122_060000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0600,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_061500,Glasgow-1 2024-01-22 0615,,audiomoth/Glasgow-1/20240122_061500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0615,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_063000,Glasgow-1 2024-01-22 0630,,audiomoth/Glasgow-1/20240122_063000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0630,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_064500,Glasgow-1 2024-01-22 0645,,audiomoth/Glasgow-1/20240122_064500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0645,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_070000,Glasgow-1 2024-01-22 0700,,audiomoth/Glasgow-1/20240122_070000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0700,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_071500,Glasgow-1 2024-01-22 0715,,audiomoth/Glasgow-1/20240122_071500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0715,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_073000,Glasgow-1 2024-01-22 0730,,audiomoth/Glasgow-1/20240122_073000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0730,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_074500,Glasgow-1 2024-01-22 0745,,audiomoth/Glasgow-1/20240122_074500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0745,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_080000,Glasgow-1 2024-01-22 0800,,audiomoth/Glasgow-1/20240122_080000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0800,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_081500,Glasgow-1 2024-01-22 0815,,audiomoth/Glasgow-1/20240122_081500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0815,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_083000,Glasgow-1 2024-01-22 0830,,audiomoth/Glasgow-1/20240122_083000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0830,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_084500,Glasgow-1 2024-01-22 0845,,audiomoth/Glasgow-1/20240122_084500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0845,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_090000,Glasgow-1 2024-01-22 0900,,audiomoth/Glasgow-1/20240122_090000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0900,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_091500,Glasgow-1 2024-01-22 0915,,audiomoth/Glasgow-1/20240122_091500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0915,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_093000,Glasgow-1 2024-01-22 0930,,audiomoth/Glasgow-1/20240122_093000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0930,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_094500,Glasgow-1 2024-01-22 0945,,audiomoth/Glasgow-1/20240122_094500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0945,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_100000,Glasgow-1 2024-01-22 1000,,audiomoth/Glasgow-1/20240122_100000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1000,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_101500,Glasgow-1 2024-01-22 1015,,audiomoth/Glasgow-1/20240122_101500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1015,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_103000,Glasgow-1 2024-01-22 1030,,audiomoth/Glasgow-1/20240122_103000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1030,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_104500,Glasgow-1 2024-01-22 1045,,audiomoth/Glasgow-1/20240122_104500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1045,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_110000,Glasgow-1 2024-01-22 1100,,audiomoth/Glasgow-1/20240122_110000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1100,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_111500,Glasgow-1 2024-01-22 1115,,audiomoth/Glasgow-1/20240122_111500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1115,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_113000,Glasgow-1 2024-01-22 1130,,audiomoth/Glasgow-1/20240122_113000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1130,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_114500,Glasgow-1 2024-01-22 1145,,audiomoth/Glasgow-1/20240122_114500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1145,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_120000,Glasgow-1 2024-01-22 1200,,audiomoth/Glasgow-1/20240122_120000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1200,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_121500,Glasgow-1 2024-01-22 1215,,audiomoth/Glasgow-1/20240122_121500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1215,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_123000,Glasgow-1 2024-01-22 1230,,audiomoth/Glasgow-1/20240122_123000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1230,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_124500,Glasgow-1 2024-01-22 1245,,audiomoth/Glasgow-1/20240122_124500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1245,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_130000,Glasgow-1 2024-01-22 1300,,audiomoth/Glasgow-1/20240122_130000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1300,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_131500,Glasgow-1 2024-01-22 1315,,audiomoth/Glasgow-1/20240122_131500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_133000,Glasgow-1 2024-01-22 1330,,audiomoth/Glasgow-1/20240122_133000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1330,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_134500,Glasgow-1 2024-01-22 1345,,audiomoth/Glasgow-1/20240122_134500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1345,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_140000,Glasgow-1 2024-01-22 1400,,audiomoth/Glasgow-1/20240122_140000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1400,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_141500,Glasgow-1 2024-01-22 1415,,audiomoth/Glasgow-1/20240122_141500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1415,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_143000,Glasgow-1 2024-01-22 1430,,audiomoth/Glasgow-1/20240122_143000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1430,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_144500,Glasgow-1 2024-01-22 1445,,audiomoth/Glasgow-1/20240122_144500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1445,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_150000,Glasgow-1 2024-01-22 1500,,audiomoth/Glasgow-1/20240122_150000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1500,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_151500,Glasgow-1 2024-01-22 1515,,audiomoth/Glasgow-1/20240122_151500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1515,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_153000,Glasgow-1 2024-01-22 1530,,audiomoth/Glasgow-1/20240122_153000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1530,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_154500,Glasgow-1 2024-01-22 1545,,audiomoth/Glasgow-1/20240122_154500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1545,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_160000,Glasgow-1 2024-01-22 1600,,audiomoth/Glasgow-1/20240122_160000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1600,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_161500,Glasgow-1 2024-01-22 1615,,audiomoth/Glasgow-1/20240122_161500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1615,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_163000,Glasgow-1 2024-01-22 1630,,audiomoth/Glasgow-1/20240122_163000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1630,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_164500,Glasgow-1 2024-01-22 1645,,audiomoth/Glasgow-1/20240122_164500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1645,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_170000,Glasgow-1 2024-01-22 1700,,audiomoth/Glasgow-1/20240122_170000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1700,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_171500,Glasgow-1 2024-01-22 1715,,audiomoth/Glasgow-1/20240122_171500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1715,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_173000,Glasgow-1 2024-01-22 1730,,audiomoth/Glasgow-1/20240122_173000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1730,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_174500,Glasgow-1 2024-01-22 1745,,audiomoth/Glasgow-1/20240122_174500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1745,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_180000,Glasgow-1 2024-01-22 1800,,audiomoth/Glasgow-1/20240122_180000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1800,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_181500,Glasgow-1 2024-01-22 1815,,audiomoth/Glasgow-1/20240122_181500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1815,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_183000,Glasgow-1 2024-01-22 1830,,audiomoth/Glasgow-1/20240122_183000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1830,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_184500,Glasgow-1 2024-01-22 1845,,audiomoth/Glasgow-1/20240122_184500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1845,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_190000,Glasgow-1 2024-01-22 1900,,audiomoth/Glasgow-1/20240122_190000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1900,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_191500,Glasgow-1 2024-01-22 1915,,audiomoth/Glasgow-1/20240122_191500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1915,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_193000,Glasgow-1 2024-01-22 1930,,audiomoth/Glasgow-1/20240122_193000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1930,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_194500,Glasgow-1 2024-01-22 1945,,audiomoth/Glasgow-1/20240122_194500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1945,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_200000,Glasgow-1 2024-01-22 2000,,audiomoth/Glasgow-1/20240122_200000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2000,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_201500,Glasgow-1 2024-01-22 2015,,audiomoth/Glasgow-1/20240122_201500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2015,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_203000,Glasgow-1 2024-01-22 2030,,audiomoth/Glasgow-1/20240122_203000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2030,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_204500,Glasgow-1 2024-01-22 2045,,audiomoth/Glasgow-1/20240122_204500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2045,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_210000,Glasgow-1 2024-01-22 2100,,audiomoth/Glasgow-1/20240122_210000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2100,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_211500,Glasgow-1 2024-01-22 2115,,audiomoth/Glasgow-1/20240122_211500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2115,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_213000,Glasgow-1 2024-01-22 2130,,audiomoth/Glasgow-1/20240122_213000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2130,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_214500,Glasgow-1 2024-01-22 2145,,audiomoth/Glasgow-1/20240122_214500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2145,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_220000,Glasgow-1 2024-01-22 2200,,audiomoth/Glasgow-1/20240122_220000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2200,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_221500,Glasgow-1 2024-01-22 2215,,audiomoth/Glasgow-1/20240122_221500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2215,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_223000,Glasgow-1 2024-01-22 2230,,audiomoth/Glasgow-1/20240122_223000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2230,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_224500,Glasgow-1 2024-01-22 2245,,audiomoth/Glasgow-1/20240122_224500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2245,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_230000,Glasgow-1 2024-01-22 2300,,audiomoth/Glasgow-1/20240122_230000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2300,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_231500,Glasgow-1 2024-01-22 2315,,audiomoth/Glasgow-1/20240122_231500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_233000,Glasgow-1 2024-01-22 2330,,audiomoth/Glasgow-1/20240122_233000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2330,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240122_234500,Glasgow-1 2024-01-22 2345,,audiomoth/Glasgow-1/20240122_234500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2345,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_000000,Glasgow-1 2024-01-23 0000,,audiomoth/Glasgow-1/20240123_000000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0000,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_001500,Glasgow-1 2024-01-23 0015,,audiomoth/Glasgow-1/20240123_001500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0015,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_003000,Glasgow-1 2024-01-23 0030,,audiomoth/Glasgow-1/20240123_003000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0030,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_004500,Glasgow-1 2024-01-23 0045,,audiomoth/Glasgow-1/20240123_004500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0045,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_010000,Glasgow-1 2024-01-23 0100,,audiomoth/Glasgow-1/20240123_010000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0100,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_011500,Glasgow-1 2024-01-23 0115,,audiomoth/Glasgow-1/20240123_011500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0115,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_013000,Glasgow-1 2024-01-23 0130,,audiomoth/Glasgow-1/20240123_013000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0130,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_014500,Glasgow-1 2024-01-23 0145,,audiomoth/Glasgow-1/20240123_014500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0145,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_020000,Glasgow-1 2024-01-23 0200,,audiomoth/Glasgow-1/20240123_020000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0200,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_021500,Glasgow-1 2024-01-23 0215,,audiomoth/Glasgow-1/20240123_021500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0215,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_023000,Glasgow-1 2024-01-23 0230,,audiomoth/Glasgow-1/20240123_023000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0230,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_024500,Glasgow-1 2024-01-23 0245,,audiomoth/Glasgow-1/20240123_024500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0245,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_030000,Glasgow-1 2024-01-23 0300,,audiomoth/Glasgow-1/20240123_030000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0300,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_031500,Glasgow-1 2024-01-23 0315,,audiomoth/Glasgow-1/20240123_031500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_033000,Glasgow-1 2024-01-23 0330,,audiomoth/Glasgow-1/20240123_033000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0330,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_034500,Glasgow-1 2024-01-23 0345,,audiomoth/Glasgow-1/20240123_034500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0345,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_040000,Glasgow-1 2024-01-23 0400,,audiomoth/Glasgow-1/20240123_040000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0400,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_041500,Glasgow-1 2024-01-23 0415,,audiomoth/Glasgow-1/20240123_041500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0415,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_043000,Glasgow-1 2024-01-23 0430,,audiomoth/Glasgow-1/20240123_043000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0430,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_044500,Glasgow-1 2024-01-23 0445,,audiomoth/Glasgow-1/20240123_044500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0445,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_050000,Glasgow-1 2024-01-23 0500,,audiomoth/Glasgow-1/20240123_050000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0500,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_051500,Glasgow-1 2024-01-23 0515,,audiomoth/Glasgow-1/20240123_051500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0515,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_053000,Glasgow-1 2024-01-23 0530,,audiomoth/Glasgow-1/20240123_053000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0530,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_054500,Glasgow-1 2024-01-23 0545,,audiomoth/Glasgow-1/20240123_054500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0545,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_060000,Glasgow-1 2024-01-23 0600,,audiomoth/Glasgow-1/20240123_060000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0600,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_061500,Glasgow-1 2024-01-23 0615,,audiomoth/Glasgow-1/20240123_061500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0615,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_063000,Glasgow-1 2024-01-23 0630,,audiomoth/Glasgow-1/20240123_063000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0630,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_064500,Glasgow-1 2024-01-23 0645,,audiomoth/Glasgow-1/20240123_064500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0645,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_070000,Glasgow-1 2024-01-23 0700,,audiomoth/Glasgow-1/20240123_070000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0700,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_071500,Glasgow-1 2024-01-23 0715,,audiomoth/Glasgow-1/20240123_071500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0715,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_073000,Glasgow-1 2024-01-23 0730,,audiomoth/Glasgow-1/20240123_073000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0730,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_074500,Glasgow-1 2024-01-23 0745,,audiomoth/Glasgow-1/20240123_074500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0745,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_080000,Glasgow-1 2024-01-23 0800,,audiomoth/Glasgow-1/20240123_080000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0800,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_081500,Glasgow-1 2024-01-23 0815,,audiomoth/Glasgow-1/20240123_081500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0815,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_083000,Glasgow-1 2024-01-23 0830,,audiomoth/Glasgow-1/20240123_083000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0830,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_084500,Glasgow-1 2024-01-23 0845,,audiomoth/Glasgow-1/20240123_084500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0845,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_090000,Glasgow-1 2024-01-23 0900,,audiomoth/Glasgow-1/20240123_090000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0900,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_091500,Glasgow-1 2024-01-23 0915,,audiomoth/Glasgow-1/20240123_091500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0915,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_093000,Glasgow-1 2024-01-23 0930,,audiomoth/Glasgow-1/20240123_093000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0930,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_094500,Glasgow-1 2024-01-23 0945,,audiomoth/Glasgow-1/20240123_094500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0945,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_100000,Glasgow-1 2024-01-23 1000,,audiomoth/Glasgow-1/20240123_100000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1000,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_101500,Glasgow-1 2024-01-23 1015,,audiomoth/Glasgow-1/20240123_101500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1015,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_103000,Glasgow-1 2024-01-23 1030,,audiomoth/Glasgow-1/20240123_103000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1030,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_104500,Glasgow-1 2024-01-23 1045,,audiomoth/Glasgow-1/20240123_104500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1045,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_110000,Glasgow-1 2024-01-23 1100,,audiomoth/Glasgow-1/20240123_110000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1100,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_111500,Glasgow-1 2024-01-23 1115,,audiomoth/Glasgow-1/20240123_111500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1115,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_113000,Glasgow-1 2024-01-23 1130,,audiomoth/Glasgow-1/20240123_113000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1130,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_114500,Glasgow-1 2024-01-23 1145,,audiomoth/Glasgow-1/20240123_114500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1145,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_120000,Glasgow-1 2024-01-23 1200,,audiomoth/Glasgow-1/20240123_120000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1200,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_121500,Glasgow-1 2024-01-23 1215,,audiomoth/Glasgow-1/20240123_121500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1215,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_123000,Glasgow-1 2024-01-23 1230,,audiomoth/Glasgow-1/20240123_123000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1230,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_124500,Glasgow-1 2024-01-23 1245,,audiomoth/Glasgow-1/20240123_124500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1245,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_130000,Glasgow-1 2024-01-23 1300,,audiomoth/Glasgow-1/20240123_130000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1300,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_131500,Glasgow-1 2024-01-23 1315,,audiomoth/Glasgow-1/20240123_131500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_133000,Glasgow-1 2024-01-23 1330,,audiomoth/Glasgow-1/20240123_133000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1330,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_134500,Glasgow-1 2024-01-23 1345,,audiomoth/Glasgow-1/20240123_134500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1345,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_140000,Glasgow-1 2024-01-23 1400,,audiomoth/Glasgow-1/20240123_140000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1400,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_141500,Glasgow-1 2024-01-23 1415,,audiomoth/Glasgow-1/20240123_141500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1415,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_143000,Glasgow-1 2024-01-23 1430,,audiomoth/Glasgow-1/20240123_143000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1430,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_144500,Glasgow-1 2024-01-23 1445,,audiomoth/Glasgow-1/20240123_144500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1445,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_150000,Glasgow-1 2024-01-23 1500,,audiomoth/Glasgow-1/20240123_150000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1500,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_151500,Glasgow-1 2024-01-23 1515,,audiomoth/Glasgow-1/20240123_151500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1515,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_153000,Glasgow-1 2024-01-23 1530,,audiomoth/Glasgow-1/20240123_153000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1530,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_154500,Glasgow-1 2024-01-23 1545,,audiomoth/Glasgow-1/20240123_154500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1545,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_160000,Glasgow-1 2024-01-23 1600,,audiomoth/Glasgow-1/20240123_160000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1600,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_161500,Glasgow-1 2024-01-23 1615,,audiomoth/Glasgow-1/20240123_161500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1615,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_163000,Glasgow-1 2024-01-23 1630,,audiomoth/Glasgow-1/20240123_163000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1630,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_164500,Glasgow-1 2024-01-23 1645,,audiomoth/Glasgow-1/20240123_164500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1645,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_170000,Glasgow-1 2024-01-23 1700,,audiomoth/Glasgow-1/20240123_170000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1700,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_171500,Glasgow-1 2024-01-23 1715,,audiomoth/Glasgow-1/20240123_171500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1715,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_173000,Glasgow-1 2024-01-23 1730,,audiomoth/Glasgow-1/20240123_173000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1730,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_174500,Glasgow-1 2024-01-23 1745,,audiomoth/Glasgow-1/20240123_174500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1745,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_180000,Glasgow-1 2024-01-23 1800,,audiomoth/Glasgow-1/20240123_180000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1800,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_181500,Glasgow-1 2024-01-23 1815,,audiomoth/Glasgow-1/20240123_181500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1815,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
+unp,Glasgow-1-20240123_183000,Glasgow-1 2024-01-23 1830,,audiomoth/Glasgow-1/20240123_183000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1830,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-1
 unp,Glasgow-2-20231223_070000,Glasgow-2 2023-12-23 0700,,audiomoth/Glasgow-2/20231223_070000.WAV,Urban Nature Project @ NHM,2023-12-23,,NA,audio/x-wave,Soundscape,2023-12-23,0700,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240120_184500,Glasgow-2 2024-01-20 1845,,audiomoth/Glasgow-2/20240120_184500.WAV,Urban Nature Project @ NHM,2024-01-20,,NA,audio/x-wave,Soundscape,2024-01-20,1845,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240120_211500,Glasgow-2 2024-01-20 2115,,audiomoth/Glasgow-2/20240120_211500.WAV,Urban Nature Project @ NHM,2024-01-20,,NA,audio/x-wave,Soundscape,2024-01-20,2115,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240121_010000,Glasgow-2 2024-01-21 0100,,audiomoth/Glasgow-2/20240121_010000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0100,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240121_063000,Glasgow-2 2024-01-21 0630,,audiomoth/Glasgow-2/20240121_063000.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,0630,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240121_231500,Glasgow-2 2024-01-21 2315,,audiomoth/Glasgow-2/20240121_231500.WAV,Urban Nature Project @ NHM,2024-01-21,,NA,audio/x-wave,Soundscape,2024-01-21,2315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240122_073000,Glasgow-2 2024-01-22 0730,,audiomoth/Glasgow-2/20240122_073000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,0730,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240122_140000,Glasgow-2 2024-01-22 1400,,audiomoth/Glasgow-2/20240122_140000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1400,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240122_143000,Glasgow-2 2024-01-22 1430,,audiomoth/Glasgow-2/20240122_143000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1430,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240122_150000,Glasgow-2 2024-01-22 1500,,audiomoth/Glasgow-2/20240122_150000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1500,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240122_160000,Glasgow-2 2024-01-22 1600,,audiomoth/Glasgow-2/20240122_160000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1600,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240122_171500,Glasgow-2 2024-01-22 1715,,audiomoth/Glasgow-2/20240122_171500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1715,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240122_173000,Glasgow-2 2024-01-22 1730,,audiomoth/Glasgow-2/20240122_173000.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,1730,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240122_234500,Glasgow-2 2024-01-22 2345,,audiomoth/Glasgow-2/20240122_234500.WAV,Urban Nature Project @ NHM,2024-01-22,,NA,audio/x-wave,Soundscape,2024-01-22,2345,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_010000,Glasgow-2 2024-01-23 0100,,audiomoth/Glasgow-2/20240123_010000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0100,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_031500,Glasgow-2 2024-01-23 0315,,audiomoth/Glasgow-2/20240123_031500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_033000,Glasgow-2 2024-01-23 0330,,audiomoth/Glasgow-2/20240123_033000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0330,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_034500,Glasgow-2 2024-01-23 0345,,audiomoth/Glasgow-2/20240123_034500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0345,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_040000,Glasgow-2 2024-01-23 0400,,audiomoth/Glasgow-2/20240123_040000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0400,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_070000,Glasgow-2 2024-01-23 0700,,audiomoth/Glasgow-2/20240123_070000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0700,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_074500,Glasgow-2 2024-01-23 0745,,audiomoth/Glasgow-2/20240123_074500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,0745,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_103000,Glasgow-2 2024-01-23 1030,,audiomoth/Glasgow-2/20240123_103000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1030,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_110000,Glasgow-2 2024-01-23 1100,,audiomoth/Glasgow-2/20240123_110000.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1100,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_111500,Glasgow-2 2024-01-23 1115,,audiomoth/Glasgow-2/20240123_111500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1115,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_114500,Glasgow-2 2024-01-23 1145,,audiomoth/Glasgow-2/20240123_114500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1145,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_131500,Glasgow-2 2024-01-23 1315,,audiomoth/Glasgow-2/20240123_131500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_144500,Glasgow-2 2024-01-23 1445,,audiomoth/Glasgow-2/20240123_144500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1445,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_164500,Glasgow-2 2024-01-23 1645,,audiomoth/Glasgow-2/20240123_164500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1645,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_191500,Glasgow-2 2024-01-23 1915,,audiomoth/Glasgow-2/20240123_191500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,1915,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240123_224500,Glasgow-2 2024-01-23 2245,,audiomoth/Glasgow-2/20240123_224500.WAV,Urban Nature Project @ NHM,2024-01-23,,NA,audio/x-wave,Soundscape,2024-01-23,2245,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240124_003000,Glasgow-2 2024-01-24 0030,,audiomoth/Glasgow-2/20240124_003000.WAV,Urban Nature Project @ NHM,2024-01-24,,NA,audio/x-wave,Soundscape,2024-01-24,0030,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240124_004500,Glasgow-2 2024-01-24 0045,,audiomoth/Glasgow-2/20240124_004500.WAV,Urban Nature Project @ NHM,2024-01-24,,NA,audio/x-wave,Soundscape,2024-01-24,0045,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240124_060000,Glasgow-2 2024-01-24 0600,,audiomoth/Glasgow-2/20240124_060000.WAV,Urban Nature Project @ NHM,2024-01-24,,NA,audio/x-wave,Soundscape,2024-01-24,0600,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240124_141500,Glasgow-2 2024-01-24 1415,,audiomoth/Glasgow-2/20240124_141500.WAV,Urban Nature Project @ NHM,2024-01-24,,NA,audio/x-wave,Soundscape,2024-01-24,1415,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240124_191500,Glasgow-2 2024-01-24 1915,,audiomoth/Glasgow-2/20240124_191500.WAV,Urban Nature Project @ NHM,2024-01-24,,NA,audio/x-wave,Soundscape,2024-01-24,1915,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240124_231500,Glasgow-2 2024-01-24 2315,,audiomoth/Glasgow-2/20240124_231500.WAV,Urban Nature Project @ NHM,2024-01-24,,NA,audio/x-wave,Soundscape,2024-01-24,2315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240125_040000,Glasgow-2 2024-01-25 0400,,audiomoth/Glasgow-2/20240125_040000.WAV,Urban Nature Project @ NHM,2024-01-25,,NA,audio/x-wave,Soundscape,2024-01-25,0400,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240125_041500,Glasgow-2 2024-01-25 0415,,audiomoth/Glasgow-2/20240125_041500.WAV,Urban Nature Project @ NHM,2024-01-25,,NA,audio/x-wave,Soundscape,2024-01-25,0415,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240125_043000,Glasgow-2 2024-01-25 0430,,audiomoth/Glasgow-2/20240125_043000.WAV,Urban Nature Project @ NHM,2024-01-25,,NA,audio/x-wave,Soundscape,2024-01-25,0430,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240125_044500,Glasgow-2 2024-01-25 0445,,audiomoth/Glasgow-2/20240125_044500.WAV,Urban Nature Project @ NHM,2024-01-25,,NA,audio/x-wave,Soundscape,2024-01-25,0445,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240125_050000,Glasgow-2 2024-01-25 0500,,audiomoth/Glasgow-2/20240125_050000.WAV,Urban Nature Project @ NHM,2024-01-25,,NA,audio/x-wave,Soundscape,2024-01-25,0500,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240125_164500,Glasgow-2 2024-01-25 1645,,audiomoth/Glasgow-2/20240125_164500.WAV,Urban Nature Project @ NHM,2024-01-25,,NA,audio/x-wave,Soundscape,2024-01-25,1645,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240125_170000,Glasgow-2 2024-01-25 1700,,audiomoth/Glasgow-2/20240125_170000.WAV,Urban Nature Project @ NHM,2024-01-25,,NA,audio/x-wave,Soundscape,2024-01-25,1700,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240125_171500,Glasgow-2 2024-01-25 1715,,audiomoth/Glasgow-2/20240125_171500.WAV,Urban Nature Project @ NHM,2024-01-25,,NA,audio/x-wave,Soundscape,2024-01-25,1715,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240126_020000,Glasgow-2 2024-01-26 0200,,audiomoth/Glasgow-2/20240126_020000.WAV,Urban Nature Project @ NHM,2024-01-26,,NA,audio/x-wave,Soundscape,2024-01-26,0200,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240126_021500,Glasgow-2 2024-01-26 0215,,audiomoth/Glasgow-2/20240126_021500.WAV,Urban Nature Project @ NHM,2024-01-26,,NA,audio/x-wave,Soundscape,2024-01-26,0215,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240126_054500,Glasgow-2 2024-01-26 0545,,audiomoth/Glasgow-2/20240126_054500.WAV,Urban Nature Project @ NHM,2024-01-26,,NA,audio/x-wave,Soundscape,2024-01-26,0545,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240126_093000,Glasgow-2 2024-01-26 0930,,audiomoth/Glasgow-2/20240126_093000.WAV,Urban Nature Project @ NHM,2024-01-26,,NA,audio/x-wave,Soundscape,2024-01-26,0930,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240126_094500,Glasgow-2 2024-01-26 0945,,audiomoth/Glasgow-2/20240126_094500.WAV,Urban Nature Project @ NHM,2024-01-26,,NA,audio/x-wave,Soundscape,2024-01-26,0945,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240126_100000,Glasgow-2 2024-01-26 1000,,audiomoth/Glasgow-2/20240126_100000.WAV,Urban Nature Project @ NHM,2024-01-26,,NA,audio/x-wave,Soundscape,2024-01-26,1000,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240126_101500,Glasgow-2 2024-01-26 1015,,audiomoth/Glasgow-2/20240126_101500.WAV,Urban Nature Project @ NHM,2024-01-26,,NA,audio/x-wave,Soundscape,2024-01-26,1015,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},Glasgow-2
+unp,Glasgow-2-20240126_104500,Glasgow-2 2024-01-26 1045,,audiomoth/Glasgow-2/20240126_104500.WAV,Urban Nature Project @ NHM,2024-01-26,,NA,audio/x-wave,Soundscape,2024-01-26,1045,function (wave, f, channel = 1) 
 {
     input <- inputw(wave = wave, f = f, channel = channel)
     return(length(input$w)/input$f)
@@ -5673,6 +7223,11 @@ unp,unp-nhm-grounds-4-20231018_093000,unp-nhm-grounds-4 2023-10-18 0930,,audiomo
     input <- inputw(wave = wave, f = f, channel = channel)
     return(length(input$w)/input$f)
 },unp-nhm-grounds-4
+unp,unp-nhm-grounds-5-20240130_093000,unp-nhm-grounds-5 2024-01-30 0930,,audiomoth/unp-nhm-grounds-5/20240130_093000.WAV,Urban Nature Project @ NHM,2024-01-30,,NA,audio/x-wave,Soundscape,2024-01-30,0930,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},unp-nhm-grounds-5
 unp,unp-nhm-grounds-20230625_022800,unp-nhm-grounds 2023-06-25 0228,,audiomoth/unp-nhm-grounds/20230625_022800.WAV,Urban Nature Project @ NHM,2023-06-25,,NA,audio/x-wave,Soundscape,2023-06-25,0228,function (wave, f, channel = 1) 
 {
     input <- inputw(wave = wave, f = f, channel = channel)
