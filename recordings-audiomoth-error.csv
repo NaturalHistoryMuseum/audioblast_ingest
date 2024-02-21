@@ -7223,6 +7223,26 @@ unp,unp-nhm-grounds-4-20231018_093000,unp-nhm-grounds-4 2023-10-18 0930,,audiomo
     input <- inputw(wave = wave, f = f, channel = channel)
     return(length(input$w)/input$f)
 },unp-nhm-grounds-4
+unp,unp-nhm-grounds-5-20240130_083000,unp-nhm-grounds-5 2024-01-30 0830,,audiomoth/unp-nhm-grounds-5/20240130_083000.WAV,Urban Nature Project @ NHM,2024-01-30,,NA,audio/x-wave,Soundscape,2024-01-30,0830,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},unp-nhm-grounds-5
+unp,unp-nhm-grounds-5-20240130_084500,unp-nhm-grounds-5 2024-01-30 0845,,audiomoth/unp-nhm-grounds-5/20240130_084500.WAV,Urban Nature Project @ NHM,2024-01-30,,NA,audio/x-wave,Soundscape,2024-01-30,0845,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},unp-nhm-grounds-5
+unp,unp-nhm-grounds-5-20240130_090000,unp-nhm-grounds-5 2024-01-30 0900,,audiomoth/unp-nhm-grounds-5/20240130_090000.WAV,Urban Nature Project @ NHM,2024-01-30,,NA,audio/x-wave,Soundscape,2024-01-30,0900,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},unp-nhm-grounds-5
+unp,unp-nhm-grounds-5-20240130_091500,unp-nhm-grounds-5 2024-01-30 0915,,audiomoth/unp-nhm-grounds-5/20240130_091500.WAV,Urban Nature Project @ NHM,2024-01-30,,NA,audio/x-wave,Soundscape,2024-01-30,0915,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},unp-nhm-grounds-5
 unp,unp-nhm-grounds-5-20240130_093000,unp-nhm-grounds-5 2024-01-30 0930,,audiomoth/unp-nhm-grounds-5/20240130_093000.WAV,Urban Nature Project @ NHM,2024-01-30,,NA,audio/x-wave,Soundscape,2024-01-30,0930,function (wave, f, channel = 1) 
 {
     input <- inputw(wave = wave, f = f, channel = channel)
