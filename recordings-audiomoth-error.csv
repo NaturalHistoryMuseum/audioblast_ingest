@@ -1,3 +1,63 @@
+unp,ewb-allotment-20210515_024440,ewb-allotment 2021-05-15 0244,,audiomoth/ewb-allotment/20210515_024440.WAV,Urban Nature Project @ NHM,2021-05-15,,NA,audio/x-wave,Soundscape,2021-05-15,0244,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_054640,ewb-allotment 2021-05-16 0546,,audiomoth/ewb-allotment/20210516_054640.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,0546,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_055940,ewb-allotment 2021-05-16 0559,,audiomoth/ewb-allotment/20210516_055940.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,0559,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_145700,ewb-allotment 2021-05-16 1457,,audiomoth/ewb-allotment/20210516_145700.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,1457,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_150540,ewb-allotment 2021-05-16 1505,,audiomoth/ewb-allotment/20210516_150540.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,1505,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_151000,ewb-allotment 2021-05-16 1510,,audiomoth/ewb-allotment/20210516_151000.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,1510,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_151420,ewb-allotment 2021-05-16 1514,,audiomoth/ewb-allotment/20210516_151420.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,1514,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_151840,ewb-allotment 2021-05-16 1518,,audiomoth/ewb-allotment/20210516_151840.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,1518,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_152300,ewb-allotment 2021-05-16 1523,,audiomoth/ewb-allotment/20210516_152300.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,1523,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_152720,ewb-allotment 2021-05-16 1527,,audiomoth/ewb-allotment/20210516_152720.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,1527,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_153140,ewb-allotment 2021-05-16 1531,,audiomoth/ewb-allotment/20210516_153140.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,1531,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
+unp,ewb-allotment-20210516_153600,ewb-allotment 2021-05-16 1536,,audiomoth/ewb-allotment/20210516_153600.WAV,Urban Nature Project @ NHM,2021-05-16,,NA,audio/x-wave,Soundscape,2021-05-16,1536,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},ewb-allotment
 unp,Glasgow-1-20230819_160700,Glasgow-1 2023-08-19 1607,,audiomoth/Glasgow-1/20230819_160700.WAV,Urban Nature Project @ NHM,2023-08-19,,NA,audio/x-wave,Soundscape,2023-08-19,1607,function (wave, f, channel = 1) 
 {
     input <- inputw(wave = wave, f = f, channel = channel)
