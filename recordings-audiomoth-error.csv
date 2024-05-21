@@ -4953,6 +4953,31 @@ unp,Newcastle-2-20220714_191500_original_with_error,Newcastle-2 2022-07-14 1915,
     input <- inputw(wave = wave, f = f, channel = channel)
     return(length(input$w)/input$f)
 },Newcastle-2
+unp,sheffield-compartment1-20240308_065000,sheffield-compartment1 2024-03-08 0650,,audiomoth/sheffield-compartment1/20240308_065000.WAV,Urban Nature Project @ NHM,2024-03-08,,NA,audio/x-wave,Soundscape,2024-03-08,0650,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},sheffield-compartment1
+unp,sheffield-compartment1-20240308_065500,sheffield-compartment1 2024-03-08 0655,,audiomoth/sheffield-compartment1/20240308_065500.WAV,Urban Nature Project @ NHM,2024-03-08,,NA,audio/x-wave,Soundscape,2024-03-08,0655,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},sheffield-compartment1
+unp,sheffield-compartment1-20240308_070500,sheffield-compartment1 2024-03-08 0705,,audiomoth/sheffield-compartment1/20240308_070500.WAV,Urban Nature Project @ NHM,2024-03-08,,NA,audio/x-wave,Soundscape,2024-03-08,0705,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},sheffield-compartment1
+unp,sheffield-compartment1-20240308_072500,sheffield-compartment1 2024-03-08 0725,,audiomoth/sheffield-compartment1/20240308_072500.WAV,Urban Nature Project @ NHM,2024-03-08,,NA,audio/x-wave,Soundscape,2024-03-08,0725,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},sheffield-compartment1
+unp,sheffield-compartment1-20240308_083500,sheffield-compartment1 2024-03-08 0835,,audiomoth/sheffield-compartment1/20240308_083500.WAV,Urban Nature Project @ NHM,2024-03-08,,NA,audio/x-wave,Soundscape,2024-03-08,0835,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},sheffield-compartment1
 unp,unp-nhm-grounds-2-20230818_085400,unp-nhm-grounds-2 2023-08-18 0854,,audiomoth/unp-nhm-grounds-2/20230818_085400.WAV,Urban Nature Project @ NHM,2023-08-18,,NA,audio/x-wave,Soundscape,2023-08-18,0854,function (wave, f, channel = 1) 
 {
     input <- inputw(wave = wave, f = f, channel = channel)
