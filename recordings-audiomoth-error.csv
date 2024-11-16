@@ -1,3 +1,288 @@
+unp,device-2-orchard-20210504_022545,device-2-orchard 2021-05-04 0225,,audiomoth/device-2-orchard/20210504_022545.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0225,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_030115,device-2-orchard 2021-05-04 0301,,audiomoth/device-2-orchard/20210504_030115.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0301,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_040500,device-2-orchard 2021-05-04 0405,,audiomoth/device-2-orchard/20210504_040500.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0405,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_043400,device-2-orchard 2021-05-04 0434,,audiomoth/device-2-orchard/20210504_043400.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0434,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_045715,device-2-orchard 2021-05-04 0457,,audiomoth/device-2-orchard/20210504_045715.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0457,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_051915,device-2-orchard 2021-05-04 0519,,audiomoth/device-2-orchard/20210504_051915.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0519,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_052815,device-2-orchard 2021-05-04 0528,,audiomoth/device-2-orchard/20210504_052815.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0528,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_053445,device-2-orchard 2021-05-04 0534,,audiomoth/device-2-orchard/20210504_053445.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0534,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_054830,device-2-orchard 2021-05-04 0548,,audiomoth/device-2-orchard/20210504_054830.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0548,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_055045,device-2-orchard 2021-05-04 0550,,audiomoth/device-2-orchard/20210504_055045.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0550,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_055200,device-2-orchard 2021-05-04 0552,,audiomoth/device-2-orchard/20210504_055200.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0552,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_055215,device-2-orchard 2021-05-04 0552,,audiomoth/device-2-orchard/20210504_055215.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0552,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_061615,device-2-orchard 2021-05-04 0616,,audiomoth/device-2-orchard/20210504_061615.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0616,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_062645,device-2-orchard 2021-05-04 0626,,audiomoth/device-2-orchard/20210504_062645.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0626,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_063500,device-2-orchard 2021-05-04 0635,,audiomoth/device-2-orchard/20210504_063500.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0635,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_063600,device-2-orchard 2021-05-04 0636,,audiomoth/device-2-orchard/20210504_063600.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0636,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_063630,device-2-orchard 2021-05-04 0636,,audiomoth/device-2-orchard/20210504_063630.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0636,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_065300,device-2-orchard 2021-05-04 0653,,audiomoth/device-2-orchard/20210504_065300.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0653,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_065345,device-2-orchard 2021-05-04 0653,,audiomoth/device-2-orchard/20210504_065345.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0653,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_071830,device-2-orchard 2021-05-04 0718,,audiomoth/device-2-orchard/20210504_071830.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0718,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_073330,device-2-orchard 2021-05-04 0733,,audiomoth/device-2-orchard/20210504_073330.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0733,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_073345,device-2-orchard 2021-05-04 0733,,audiomoth/device-2-orchard/20210504_073345.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0733,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_075045,device-2-orchard 2021-05-04 0750,,audiomoth/device-2-orchard/20210504_075045.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0750,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_075530,device-2-orchard 2021-05-04 0755,,audiomoth/device-2-orchard/20210504_075530.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0755,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_083445,device-2-orchard 2021-05-04 0834,,audiomoth/device-2-orchard/20210504_083445.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0834,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_090115,device-2-orchard 2021-05-04 0901,,audiomoth/device-2-orchard/20210504_090115.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0901,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_090815,device-2-orchard 2021-05-04 0908,,audiomoth/device-2-orchard/20210504_090815.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0908,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_103500,device-2-orchard 2021-05-04 1035,,audiomoth/device-2-orchard/20210504_103500.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1035,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_105300,device-2-orchard 2021-05-04 1053,,audiomoth/device-2-orchard/20210504_105300.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1053,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_105330,device-2-orchard 2021-05-04 1053,,audiomoth/device-2-orchard/20210504_105330.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1053,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_105415,device-2-orchard 2021-05-04 1054,,audiomoth/device-2-orchard/20210504_105415.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1054,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_105430,device-2-orchard 2021-05-04 1054,,audiomoth/device-2-orchard/20210504_105430.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1054,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_105445,device-2-orchard 2021-05-04 1054,,audiomoth/device-2-orchard/20210504_105445.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1054,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_123730,device-2-orchard 2021-05-04 1237,,audiomoth/device-2-orchard/20210504_123730.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1237,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_123830,device-2-orchard 2021-05-04 1238,,audiomoth/device-2-orchard/20210504_123830.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1238,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_123945,device-2-orchard 2021-05-04 1239,,audiomoth/device-2-orchard/20210504_123945.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1239,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_124800,device-2-orchard 2021-05-04 1248,,audiomoth/device-2-orchard/20210504_124800.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1248,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_131530,device-2-orchard 2021-05-04 1315,,audiomoth/device-2-orchard/20210504_131530.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1315,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_132330,device-2-orchard 2021-05-04 1323,,audiomoth/device-2-orchard/20210504_132330.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1323,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_132915,device-2-orchard 2021-05-04 1329,,audiomoth/device-2-orchard/20210504_132915.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1329,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_133200,device-2-orchard 2021-05-04 1332,,audiomoth/device-2-orchard/20210504_133200.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1332,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210504_134130,device-2-orchard 2021-05-04 1341,,audiomoth/device-2-orchard/20210504_134130.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,1341,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-3-church-20210502_003000,device-3-church 2021-05-02 0030,,audiomoth/device-3-church/20210502_003000.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,0030,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_034200,device-3-church 2021-05-02 0342,,audiomoth/device-3-church/20210502_034200.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,0342,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_040600,device-3-church 2021-05-02 0406,,audiomoth/device-3-church/20210502_040600.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,0406,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_042400,device-3-church 2021-05-02 0424,,audiomoth/device-3-church/20210502_042400.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,0424,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_050900,device-3-church 2021-05-02 0509,,audiomoth/device-3-church/20210502_050900.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,0509,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_083900,device-3-church 2021-05-02 0839,,audiomoth/device-3-church/20210502_083900.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,0839,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_090600,device-3-church 2021-05-02 0906,,audiomoth/device-3-church/20210502_090600.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,0906,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_102700,device-3-church 2021-05-02 1027,,audiomoth/device-3-church/20210502_102700.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,1027,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_105100,device-3-church 2021-05-02 1051,,audiomoth/device-3-church/20210502_105100.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,1051,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_150000,device-3-church 2021-05-02 1500,,audiomoth/device-3-church/20210502_150000.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,1500,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_203600,device-3-church 2021-05-02 2036,,audiomoth/device-3-church/20210502_203600.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,2036,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_224500,device-3-church 2021-05-02 2245,,audiomoth/device-3-church/20210502_224500.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,2245,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_233600,device-3-church 2021-05-02 2336,,audiomoth/device-3-church/20210502_233600.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,2336,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210502_235100,device-3-church 2021-05-02 2351,,audiomoth/device-3-church/20210502_235100.WAV,Urban Nature Project @ NHM,2021-05-02,,NA,audio/x-wave,Soundscape,2021-05-02,2351,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
+unp,device-3-church-20210503_000300,device-3-church 2021-05-03 0003,,audiomoth/device-3-church/20210503_000300.WAV,Urban Nature Project @ NHM,2021-05-03,,NA,audio/x-wave,Soundscape,2021-05-03,0003,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-3-church
 unp,ewb-allotment-20210515_024440,ewb-allotment 2021-05-15 0244,,audiomoth/ewb-allotment/20210515_024440.WAV,Urban Nature Project @ NHM,2021-05-15,,NA,audio/x-wave,Soundscape,2021-05-15,0244,function (wave, f, channel = 1) 
 {
     input <- inputw(wave = wave, f = f, channel = channel)
