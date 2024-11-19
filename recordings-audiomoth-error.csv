@@ -1,3 +1,18 @@
+unp,device-2-orchard-20210501_210530,device-2-orchard 2021-05-01 2105,,audiomoth/device-2-orchard/20210501_210530.WAV,Urban Nature Project @ NHM,2021-05-01,,NA,audio/x-wave,Soundscape,2021-05-01,2105,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210501_210630,device-2-orchard 2021-05-01 2106,,audiomoth/device-2-orchard/20210501_210630.WAV,Urban Nature Project @ NHM,2021-05-01,,NA,audio/x-wave,Soundscape,2021-05-01,2106,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
+unp,device-2-orchard-20210501_211345,device-2-orchard 2021-05-01 2113,,audiomoth/device-2-orchard/20210501_211345.WAV,Urban Nature Project @ NHM,2021-05-01,,NA,audio/x-wave,Soundscape,2021-05-01,2113,function (wave, f, channel = 1) 
+{
+    input <- inputw(wave = wave, f = f, channel = channel)
+    return(length(input$w)/input$f)
+},device-2-orchard
 unp,device-2-orchard-20210504_022545,device-2-orchard 2021-05-04 0225,,audiomoth/device-2-orchard/20210504_022545.WAV,Urban Nature Project @ NHM,2021-05-04,,NA,audio/x-wave,Soundscape,2021-05-04,0225,function (wave, f, channel = 1) 
 {
     input <- inputw(wave = wave, f = f, channel = channel)
